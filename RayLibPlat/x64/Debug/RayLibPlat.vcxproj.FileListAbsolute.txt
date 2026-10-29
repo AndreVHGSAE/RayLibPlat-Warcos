@@ -1,0 +1,3 @@
+C:\Users\Alumno\Downloads\RayLibPlat\x64\Debug\raylib.dll
+C:\Users\Alumno\Downloads\RayLibPlat\x64\Debug\glfw3.dll
+C:\Users\Alumno\Downloads\RayLibPlat\RayLibPlat\x64\Debug\RayLibPl.85D0DD75.Up2Date
