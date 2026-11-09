@@ -1,2 +1,21 @@
-﻿  Game.cpp
-  RayLibPlat.vcxproj -> C:\Users\Alumno\Downloads\RayLibPlat\x64\Debug\RayLibPlat.exe
+﻿  Character.cpp
+  Game.cpp
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Character.h(10,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Character.cpp")
+  
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Character.cpp(39,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Character.cpp(39,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Character.cpp(39,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Character.cpp(39,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Character.h(10,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Game.cpp(23,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  RayLibPlat.cpp
+  Tile.cpp
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Tile.cpp(22,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Tile.cpp(22,40): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Tile.cpp(22,36): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Tile.cpp(22,24): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Tile.cpp(36,9): error C2064: el término no se evalúa como una función con 0 argumentos
+  Generando código...
