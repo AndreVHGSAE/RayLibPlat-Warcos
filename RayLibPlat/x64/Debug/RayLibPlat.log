@@ -1,1 +1,6 @@
-﻿  RayLibPlat.vcxproj -> C:\Users\Alumno\Documents\RayLibPlat-Warcos\x64\Debug\RayLibPlat.exe
+﻿  Character.cpp
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Character.cpp(66,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Character.cpp(66,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Character.cpp(66,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Character.cpp(66,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  RayLibPlat.vcxproj -> C:\Users\Alumno\Downloads\RayLibPlat-Warcos\x64\Debug\RayLibPlat.exe

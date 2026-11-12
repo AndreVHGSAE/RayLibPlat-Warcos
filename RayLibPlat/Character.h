@@ -11,6 +11,7 @@ private:
 	const float jumpForce = -2;
 	float size;
 	bool isGrounded = false;
+	bool isOnStairs = false;
 public:
 	Character(Vector2 pos, float s);
 	~Character();

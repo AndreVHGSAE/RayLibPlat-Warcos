@@ -3,6 +3,9 @@
 #include "Tile.h"
 #include "Character.h"
 #include <vector>
+#include "Brick.h"
+#include "Wall.h"
+#include "Stairs.h"
 
 class Game
 {
