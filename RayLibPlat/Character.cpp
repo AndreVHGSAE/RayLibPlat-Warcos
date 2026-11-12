@@ -32,20 +32,30 @@ void Character::Update()
 	}
 	position.x += velocity.x;
 	position.y += velocity.y;
+
 }
 
 void Character::Draw()
 {
-	DrawRectangle(position.x, position.y, size, size, BLUE);
+	DrawRectangle(position.x, position.y, size, size, DARKGREEN);
 }
 
-void Character::Collision(Tile& t)
+void Character::CollisionCheck(Tile& t)
 {
-	Rectangle collider = { position.x,position.y, size, size };
-	if (CheckCollisionRecs(collider, t.getBoxCollider()))
+	Rectangle player = { position.x,position.y, size, size };
+	switch (t.GetType())
 	{
-		position.y = t.GetPosition().y - 25;
-		velocity.y = 0;
-		isGrounded = true;
+	case TileType::Brick:
+		if (CheckCollisionRecs(player, t.GetBoxCollider()))
+		{
+			position.y = t.GetPosition().y - 25;
+			velocity.y = 0;
+			isGrounded = true;
+		}
+		break;
+	case TileType::Wall:
+		break;
+	case TileType::Stairs:
+		break;
 	}
 }

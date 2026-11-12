@@ -18,6 +18,6 @@ public:
 
 	void Update();
 	void Draw();
-	void Collision(Tile & t);
+	void CollisionCheck(Tile & t);
 };
 

@@ -1,34 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\",
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\RayLibPlat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\RayLibPlat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Stairs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Stairs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Stairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Stairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Brick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Brick.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Tile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\RayLibPlat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\RayLibPlat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Brick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF4BDC1-2F81-43B6-AEE8-88EE5B9D1399}|RayLibPlat\\RayLibPlat.vcxproj|solutionrelative:RayLibPlat\\Brick.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,43 +62,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 273,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Character.h",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Character.h",
-              "RelativeDocumentMoniker": "RayLibPlat\\Character.h",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Character.h",
-              "RelativeToolTip": "RayLibPlat\\Character.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Stairs.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Stairs.h",
+              "RelativeDocumentMoniker": "RayLibPlat\\Stairs.h",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Stairs.h",
+              "RelativeToolTip": "RayLibPlat\\Stairs.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-11-09T16:11:49.831Z",
+              "WhenOpened": "2026-11-12T16:41:50.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "Wall.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Wall.h",
+              "RelativeDocumentMoniker": "RayLibPlat\\Wall.h",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Wall.h",
+              "RelativeToolTip": "RayLibPlat\\Wall.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T15:43:35.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Brick.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Brick.h",
+              "RelativeDocumentMoniker": "RayLibPlat\\Brick.h",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Brick.h",
+              "RelativeToolTip": "RayLibPlat\\Brick.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-12T15:16:13.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Game.h",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Game.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Game.h",
               "RelativeDocumentMoniker": "RayLibPlat\\Game.h",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Game.h",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Game.h",
               "RelativeToolTip": "RayLibPlat\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-10-29T17:06:17.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Character.h",
+              "RelativeDocumentMoniker": "RayLibPlat\\Character.h",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Character.h",
+              "RelativeToolTip": "RayLibPlat\\Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-09T16:11:49.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Tile.h",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Tile.h",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Tile.h",
               "RelativeDocumentMoniker": "RayLibPlat\\Tile.h",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Tile.h",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Tile.h",
               "RelativeToolTip": "RayLibPlat\\Tile.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-11-09T15:36:56.616Z",
               "EditorCaption": ""
@@ -83,28 +146,42 @@
         },
         {
           "DockedWidth": 282,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Tile.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Tile.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Tile.cpp",
               "RelativeDocumentMoniker": "RayLibPlat\\Tile.cpp",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Tile.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Tile.cpp",
               "RelativeToolTip": "RayLibPlat\\Tile.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-11-09T15:38:47.512Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "Brick.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Brick.cpp",
+              "RelativeDocumentMoniker": "RayLibPlat\\Brick.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Brick.cpp",
+              "RelativeToolTip": "RayLibPlat\\Brick.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T15:18:01.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Character.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Character.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Character.cpp",
               "RelativeDocumentMoniker": "RayLibPlat\\Character.cpp",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Character.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Character.cpp",
               "RelativeToolTip": "RayLibPlat\\Character.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -113,24 +190,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Stairs.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Stairs.cpp",
+              "RelativeDocumentMoniker": "RayLibPlat\\Stairs.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Stairs.cpp",
+              "RelativeToolTip": "RayLibPlat\\Stairs.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T16:43:58.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Game.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Game.cpp",
               "RelativeDocumentMoniker": "RayLibPlat\\Game.cpp",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\Game.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Game.cpp",
               "RelativeToolTip": "RayLibPlat\\Game.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-29T17:07:56.01Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "Wall.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Wall.cpp",
+              "RelativeDocumentMoniker": "RayLibPlat\\Wall.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\Wall.cpp",
+              "RelativeToolTip": "RayLibPlat\\Wall.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-12T15:45:36.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "RayLibPlat.cpp",
-              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\RayLibPlat.cpp",
+              "DocumentMoniker": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\RayLibPlat.cpp",
               "RelativeDocumentMoniker": "RayLibPlat\\RayLibPlat.cpp",
-              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\LoadRunner\\RayLibPlat-Warcos\\RayLibPlat\\RayLibPlat.cpp",
+              "ToolTip": "C:\\Users\\Alumno\\Desktop\\Santiago C\\RayLibPlat-Warcos\\RayLibPlat\\RayLibPlat.cpp",
               "RelativeToolTip": "RayLibPlat\\RayLibPlat.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",

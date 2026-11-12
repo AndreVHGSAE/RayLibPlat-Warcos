@@ -1,3 +1,7 @@
-C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Game.cpp;C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\x64\Debug\Game.obj
-C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\RayLibPlat.cpp;C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\x64\Debug\RayLibPlat.obj
-C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\Tile.cpp;C:\Users\Alumno\Desktop\Santiago C\LoadRunner\RayLibPlat-Warcos\RayLibPlat\x64\Debug\Tile.obj
+C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\Brick.cpp;C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\x64\Debug\Brick.obj
+C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\Character.cpp;C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\x64\Debug\Character.obj
+C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\Game.cpp;C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\x64\Debug\Game.obj
+C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\RayLibPlat.cpp;C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\x64\Debug\RayLibPlat.obj
+C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\Stairs.cpp;C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\x64\Debug\Stairs.obj
+C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\Tile.cpp;C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\x64\Debug\Tile.obj
+C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\Wall.cpp;C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\RayLibPlat\x64\Debug\Wall.obj
