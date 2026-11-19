@@ -1,8 +1,14 @@
-﻿  Game.cpp
-C:\Users\vanha\Desktop\Visual Studio\RayLibPlat-Warcos\RayLibPlat\Game.cpp(21,35): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\vanha\Desktop\Visual Studio\RayLibPlat-Warcos\RayLibPlat\Game.cpp(22,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\vanha\Desktop\Visual Studio\RayLibPlat-Warcos\RayLibPlat\Game.cpp(23,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\vanha\Desktop\Visual Studio\RayLibPlat-Warcos\RayLibPlat\Game.cpp(24,37): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\vanha\Desktop\Visual Studio\RayLibPlat-Warcos\RayLibPlat\Game.cpp(25,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-C:\Users\vanha\Desktop\Visual Studio\RayLibPlat-Warcos\RayLibPlat\Game.cpp(26,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-  RayLibPlat.vcxproj -> C:\Users\vanha\Desktop\Visual Studio\RayLibPlat-Warcos\x64\Debug\RayLibPlat.exe
+﻿  Character.cpp
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Character.cpp(66,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Character.cpp(66,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Character.cpp(66,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Character.cpp(66,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Game.cpp(21,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Game.cpp(22,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Game.cpp(23,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Game.cpp(24,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Game.cpp(25,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Alumno\Downloads\RayLibPlat-Warcos\RayLibPlat\Game.cpp(26,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  RayLibPlat.vcxproj -> C:\Users\Alumno\Downloads\RayLibPlat-Warcos\x64\Debug\RayLibPlat.exe

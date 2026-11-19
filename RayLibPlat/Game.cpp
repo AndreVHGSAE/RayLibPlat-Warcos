@@ -22,8 +22,8 @@ void Game::InitGame()
         map.push_back(new Stairs(300, i * 25, 25));
         map.push_back(new Wall(775, i * 25, 25));
         map.push_back(new Wall(0, i * 25, 25));
-        map.push_back(new Wall(i * 25, 0, 25));
-        map.push_back(new Wall(i * 25, 575, 25));
+        map.push_back(new Brick(i * 25, 0, 25));
+        map.push_back(new Brick(i * 25, 575, 25));
 
         coins.push_back(new Gold(300, 300, 25));
     }
