@@ -1,1 +1,10 @@
-﻿  RayLibPlat.vcxproj -> C:\Users\Alumno\Desktop\Santiago C\RayLibPlat-Warcos\x64\Debug\RayLibPlat.exe
+﻿  Game.cpp
+C:\Users\alumnos\Documents\GitHub\RayLibPlat-Warcos\RayLibPlat\Character.h(10,18): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "Game.cpp")
+  
+C:\Users\alumnos\Documents\GitHub\RayLibPlat-Warcos\RayLibPlat\Game.cpp(23,35): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alumnos\Documents\GitHub\RayLibPlat-Warcos\RayLibPlat\Game.cpp(24,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alumnos\Documents\GitHub\RayLibPlat-Warcos\RayLibPlat\Game.cpp(29,35): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alumnos\Documents\GitHub\RayLibPlat-Warcos\RayLibPlat\Game.cpp(30,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\alumnos\Documents\GitHub\RayLibPlat-Warcos\RayLibPlat\Game.cpp(35,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  RayLibPlat.vcxproj -> C:\Users\alumnos\Documents\GitHub\RayLibPlat-Warcos\x64\Debug\RayLibPlat.exe

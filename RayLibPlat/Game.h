@@ -4,6 +4,9 @@
 #include "Character.h"
 #include <vector>
 #include "Brick.h"
+#include "Wall.h"
+#include "Stairs.h"
+#include "Gold.h"
 class Game
 {
 private:
@@ -11,6 +14,7 @@ private:
 	const int screenWidth = 800;
 	const int screenHeight = 600;
 	Vector2 ballPos;
+	std::vector<Gold*> coins;
 	std::vector<Tile*> map;
 	Character* player;
 public:
