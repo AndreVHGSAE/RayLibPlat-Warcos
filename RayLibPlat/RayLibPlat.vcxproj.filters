@@ -36,6 +36,9 @@
     <ClCompile Include="Stairs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Gold.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Gane.h">
@@ -57,6 +60,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Stairs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Gold.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -6,6 +6,7 @@
 #include "Brick.h"
 #include "Wall.h"
 #include "Stairs.h"
+#include "Gold.h"
 
 class Game
 {
@@ -16,9 +17,13 @@ private:
 	bool playing = false;
 	const int screenWidth = 800;
 	const int screenHeight = 600;
+
 	Vector2 ballPos;
 
 	std::vector<Tile*> map;
+	std::vector<Gold*> coins;
+
+	bool runGame = false;
 public:
 	Game();
 	~Game();

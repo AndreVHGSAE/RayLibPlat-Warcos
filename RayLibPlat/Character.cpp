@@ -95,9 +95,9 @@ void Character::Collision(Tile& t)
         {
             if (CheckCollisionRecs(collider, t.getBoxCollider()))
             {
-                position.y = t.GetPosition().y - 25;
-                velocity.y = 0;
-                isGrounded = true;
+                //position.y = t.GetPosition().y - 25;
+                //velocity.y = 0;
+                //isGrounded = true;
                 if (velocity.x < 0)
                 {
                     position.x += 5;
@@ -121,6 +121,19 @@ void Character::Collision(Tile& t)
 
     }
 
+}
+
+bool Character::CollectGold(Gold& g)
+{
+    Rectangle player = { position.x,position.y, size, size };
+    if (CheckCollisionRecs(player, g.GetGoldCollider()))
+    {
+        return true;
+    }
+    else
+    {
+        return false;
+    }
 }
 
 bool Character::isAlive()

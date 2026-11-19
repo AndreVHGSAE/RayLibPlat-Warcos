@@ -1,6 +1,7 @@
 #pragma once
 #include "raylib.h"
-#include "tile.h"
+#include "Tile.h"
+#include "Gold.h"
 class Character
 {
 private:
@@ -12,6 +13,7 @@ private:
 	float size;
 	bool isGrounded = false;
 	bool isOnStairs = false;
+
 public:
 	Character(Vector2 pos, float s);
 	~Character();
@@ -19,6 +21,7 @@ public:
 	void Update();
 	void Draw();
 	void Collision(Tile & t);
+	bool CollectGold(Gold& g);
 
 	bool isAlive();
 };
