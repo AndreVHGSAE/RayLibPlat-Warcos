@@ -12,26 +12,6 @@ Character::~Character()
 
 void Character::Update()
 {
-	velocity.y += gravity;
-	if (IsKeyDown(KEY_A))
-	{
-		velocity.x = -moveSpeed;
-	}
-	else if (IsKeyReleased(KEY_A))
-	{
-		velocity.x = 0;
-	}
-	velocity.y += gravity;
-	if (IsKeyDown(KEY_D))
-	{
-		velocity.x = moveSpeed;
-	}
-	else if (IsKeyReleased(KEY_D))
-	{
-		velocity.x = 0;
-	}
-	position.x += velocity.x;
-	position.y += velocity.y;
 
 }
 

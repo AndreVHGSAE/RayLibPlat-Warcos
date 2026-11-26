@@ -5,10 +5,9 @@ class Brick :
 {
 private:
 public:
+    bool floor = true;
     Brick(float x, float y, float size);
     ~Brick();
     void Draw() const override;
-
-
 };
 

@@ -8,5 +8,9 @@ Brick::~Brick() {}
 
 void Brick::Draw() const
 {
+	if (floor == true)
+	{
+
 	DrawRectangle(position.x, position.y, size, size, RED);
+	}
 }

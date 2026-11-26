@@ -1,7 +1,7 @@
 #pragma once
 #include "Game.h"
 #include <raylib.h>
-#include "Character.h"
+#include "Player.h"
 #include <vector>
 #include "Brick.h"
 #include "Wall.h"
@@ -16,7 +16,7 @@ private:
 	Vector2 ballPos;
 	std::vector<Gold*> coins;
 	std::vector<Tile*> map;
-	Character* player;
+	Player* player;
 public:
 	Game();
 	~Game();

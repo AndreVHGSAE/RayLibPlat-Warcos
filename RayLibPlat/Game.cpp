@@ -1,7 +1,7 @@
 #include <iostream>
 #include "Game.h"
 #include "Tile.h"
-#include "Character.h"
+#include "Player.h"
 
 Game::Game()
 {
@@ -17,7 +17,7 @@ Game::~Game()
 void Game::InitGame()
 {
 	ballPos = { (float)screenWidth / 2,(float)screenWidth / 2 };
-    player = new Character({ 100, 100 }, 25);
+    player = new Player( 100, 100, 25);
     for (int i = 0; i < 25; i++)
     {
         map.push_back(new Brick(i * 25, 400,25));
@@ -51,6 +51,7 @@ void Game::Update()
     if (IsKeyDown(KEY_LEFT)) ballPos.x -= 2;
     if (IsKeyDown(KEY_UP)) ballPos.y -= 2;
     if (IsKeyDown(KEY_DOWN)) ballPos.y += 2;
+    if (IsKeyDown(KEY_DOWN)) Brick.
 }
 
 void Game::Draw()

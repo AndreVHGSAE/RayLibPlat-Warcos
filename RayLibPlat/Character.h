@@ -4,7 +4,8 @@
 
 class Character
 {
-private:
+
+protected:
 	Vector2 position;
 	Vector2 velocity = { 0,0 };
 	float gravity = 0.8;
@@ -12,12 +13,13 @@ private:
 	const float jumpForce = -2;
 	float size;
 	bool isGrounded = false;
+private:
 public:
 	Character(Vector2 pos, float s);
 	~Character();
 
-	void Update();
-	void Draw();
-	void CollisionCheck(Tile & t);
+	virtual void Update();
+	virtual void Draw();
+	void CollisionCheck(Tile & b);
 };
 
